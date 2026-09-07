@@ -1,3 +1,6 @@
-<img width="706" height="999" alt="Space Patrol 1" src="https://github.com/user-attachments/assets/59580e25-a047-4faf-85f8-3269173531f7" />
 # SpacePatrol
 Originally a type-in game in Compute!'s Gazettes for VIC20 and C64. Added versions for Neo6502 and Agon Light 2
+
+<img width="706" height="999" alt="Space Patrol 1" src="https://github.com/user-attachments/assets/59580e25-a047-4faf-85f8-3269173531f7" />
+
+<img width="739" height="999" alt="Space Patrol 2" src="https://github.com/user-attachments/assets/9fa0ec24-c4ed-4f96-a2e0-ec42b3d739b7" />
